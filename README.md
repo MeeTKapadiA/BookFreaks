@@ -1,2 +1,1 @@
-# example-repo
-a sample description 
+An Ecom Book Store 
